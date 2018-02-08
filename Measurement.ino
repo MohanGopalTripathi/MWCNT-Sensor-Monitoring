@@ -6,8 +6,6 @@
    Arduino D11,D10,D9,D4 = output to LED driver ICs
 
 
-   Created : 04/2015
-   Modified : 11/2015
    By : Mohan Gopal Tripathi
 
 
