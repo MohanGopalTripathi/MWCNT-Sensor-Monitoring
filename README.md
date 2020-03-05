@@ -1,2 +1,2 @@
 # MWCNT-Sensor-Monitoring
-MWCNT based sensor monitoring system on Arduino . 
+MWCNT (Multi-wall carbon nano tube) based sensor monitoring system on Arduino . 
